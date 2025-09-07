@@ -18,12 +18,11 @@ Visit the live site: [https://su-im.github.io/liquidglass-portfolio/]
 
 ## Features
 
-- **Responsive Design**: Optimized for desktop and mobile devices
 - **Liquid Glass Aesthetic**: Modern UI inspired by Apple's design language
 - **Video Integration**: Embedded YouTube vlogs with iframe
 - **Interactive Media**: GIF showcase of p5.js artwork
 - **Fixed Navigation**: Bottom navigation bar with smooth transitions
-- **Contact Information**: Social media links and downloadable resume
+- **Contact Information**: Social media links and downloadable resume (For privacy protection, I will send it to you upon separate request)
 
 ## Pages
 
@@ -69,22 +68,6 @@ Visit the live site: [https://su-im.github.io/liquidglass-portfolio/]
 - **Responsive Typography**: Custom font stacks with fallbacks
 - **Smooth Transitions**: CSS transitions for interactive elements
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/liquidglass-portfolio.git
-```
-
-2. Open `index.html` in your web browser or serve with a local server:
-```bash
-# Using Python
-python -m http.server 8000
-
-# Using Node.js
-npx serve
-```
-
 ## Browser Support
 
 - Modern browsers supporting CSS3 features
@@ -111,7 +94,7 @@ npx serve
 
 # J_coby 포트폴리오 웹사이트
 
-Jacob(임성구)의 여행 브이로그, 미디어 아트웨어, 연락처 정보를 보여주는 개인 포트폴리오 웹사이트입니다. HTML, CSS와 애플의 리퀴드 글라스 미학에서 영감을 받은 모던 웹 디자인 원칙으로 제작되었습니다.
+Jacob(임성우)의 여행 브이로그, 미디어 아트웨어, 연락처 정보를 보여주는 개인 포트폴리오 웹사이트입니다. HTML, CSS와 애플의 리퀴드 글라스 미학에서 영감을 받은 모던 웹 디자인 원칙으로 제작되었습니다.
 
 ## 라이브 데모
 실제 사이트 방문: [https://su-im.github.io/liquidglass-portfolio/]
@@ -129,12 +112,11 @@ Jacob(임성구)의 여행 브이로그, 미디어 아트웨어, 연락처 정�
 
 ## 특징
 
-- **반응형 디자인**: 데스크톱과 모바일 기기에 최적화
 - **리퀴드 글라스 미학**: 애플 디자인 언어에서 영감받은 모던 UI
 - **비디오 통합**: iframe을 통한 유튜브 브이로그 임베드
 - **인터랙티브 미디어**: p5.js 아트웨어의 GIF 쇼케이스
 - **고정 네비게이션**: 부드러운 전환 효과가 있는 하단 네비게이션 바
-- **연락처 정보**: 소셜 미디어 링크와 다운로드 가능한 이력서
+- **연락처 정보**: 소셜 미디어 링크와 다운로드 가능한 이력서 (개인정보보호 를 위해 따로 요청시 드립니다)
 
 ## 페이지 구성
 
@@ -179,22 +161,6 @@ Jacob(임성구)의 여행 브이로그, 미디어 아트웨어, 연락처 정�
 - **고정 네비게이션**: `position: fixed`를 사용한 하단 위치 네비게이션 바
 - **반응형 타이포그래피**: 폴백이 포함된 커스텀 폰트 스택
 - **부드러운 전환**: 인터랙티브 요소를 위한 CSS 전환 효과
-
-## 설치 방법
-
-1. 레포지토리 클론:
-```bash
-git clone https://github.com/yourusername/liquidglass-portfolio.git
-```
-
-2. 웹브라우저에서 `index.html` 열기 또는 로컬 서버로 실행:
-```bash
-# Python 사용
-python -m http.server 8000
-
-# Node.js 사용
-npx serve
-```
 
 ## 브라우저 지원
 
