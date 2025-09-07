@@ -3,7 +3,18 @@
 A personal portfolio website showcasing Jacob's (Seongu Im) travel vlogs, media artwork, and contact information. Built with HTML, CSS, and modern web design principles inspired by Apple's liquid glass aesthetic.
 
 ## Live Demo
-Visit the live site: [Your GitHub Pages URL]
+Visit the live site: [https://su-im.github.io/liquidglass-portfolio/]
+
+### Viewing Instructions
+**Mobile Optimized**: This website is designed specifically for iPhone 12 Pro dimensions (390x844px).
+
+**For Desktop Users**:
+1. Press F12 or right-click → Inspect Element
+2. Click the device toggle icon or press Ctrl+Shift+M (Windows) / Cmd+Shift+M (Mac)
+3. Select "iPhone 12 Pro" from device list or manually set to 390x844px
+4. Refresh the page for optimal viewing
+
+**Best Experience**: View on iPhone 12 Pro or similar mobile device.
 
 ## Features
 
@@ -36,12 +47,18 @@ Visit the live site: [Your GitHub Pages URL]
 ├── contact.html        # Contact information
 ├── styles.css          # Main stylesheet
 └── images/            # Image assets
-    ├── jacob2.jpg
     ├── disney1.jpeg
     ├── disney2.jpeg
     ├── disney3.jpeg
+    ├── github.png
+    ├── instagram.png
+    ├── jacob.jpg
+    ├── jacob2.jpg
+    ├── linkedin.png
+    ├── logo.png
+    ├── sky.jpg
     ├── Will-o'-the-wisp.gif
-    └── social-icons/
+    └── youtube.png
 ```
 
 ## Key CSS Features
@@ -87,7 +104,18 @@ npx serve
 Jacob(임성구)의 여행 브이로그, 미디어 아트웨어, 연락처 정보를 보여주는 개인 포트폴리오 웹사이트입니다. HTML, CSS와 애플의 리퀴드 글라스 미학에서 영감을 받은 모던 웹 디자인 원칙으로 제작되었습니다.
 
 ## 라이브 데모
-실제 사이트 방문: [GitHub Pages URL]
+실제 사이트 방문: [https://su-im.github.io/liquidglass-portfolio/]
+
+### 사용 안내
+**모바일 최적화**: 이 웹사이트는 iPhone 12 Pro 화면 크기(390x844px)에 맞춰 제작되었습니다.
+
+**데스크톱 사용자를 위한 안내**:
+1. F12를 누르거나 우클릭 → 검사 선택
+2. 기기 토글 아이콘을 클릭하거나 Ctrl+Shift+M (Windows) / Cmd+Shift+M (Mac) 누르기
+3. 기기 목록에서 "iPhone 12 Pro" 선택하거나 수동으로 390x844px 설정
+4. 최적의 화면을 위해 페이지 새로고침
+
+**최고의 경험**: iPhone 12 Pro 또는 유사한 모바일 기기에서 확인하세요.
 
 ## 특징
 
@@ -120,12 +148,18 @@ Jacob(임성구)의 여행 브이로그, 미디어 아트웨어, 연락처 정�
 ├── contact.html        # 연락처 정보
 ├── styles.css          # 메인 스타일시트
 └── images/            # 이미지 자산
-    ├── jacob2.jpg
     ├── disney1.jpeg
     ├── disney2.jpeg
     ├── disney3.jpeg
+    ├── github.png
+    ├── instagram.png
+    ├── jacob.jpg
+    ├── jacob2.jpg
+    ├── linkedin.png
+    ├── logo.png
+    ├── sky.jpg
     ├── Will-o'-the-wisp.gif
-    └── social-icons/
+    └── youtube.png
 ```
 
 ## 주요 CSS 기능
