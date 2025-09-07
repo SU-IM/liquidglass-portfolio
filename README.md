@@ -91,6 +91,16 @@ npx serve
 - `backdrop-filter` for glassmorphism effects
 - CSS Grid and Flexbox layouts
 
+## Future Improvements
+
+- [ ] Add responsive design for desktop and tablet devices
+- [ ] Implement JavaScript interactions and animations
+- [ ] Add more portfolio projects and case studies
+- [ ] Integrate with CMS for dynamic content management
+- [ ] Improve accessibility features (ARIA labels, keyboard navigation)
+- [ ] Add loading animations and page transitions
+- [ ] Implement dark/light theme toggle
+
 ## Attribution
 
 - Icons sourced from various free icon providers (see References section in contact.html)
@@ -191,6 +201,16 @@ npx serve
 - CSS3 기능을 지원하는 모던 브라우저
 - 글래스모피즘 효과를 위한 `backdrop-filter` 지원
 - CSS Grid와 Flexbox 레이아웃 지원
+
+## 향후 개선 사항
+
+- [ ] 데스크톱 및 태블릿 기기용 반응형 디자인 추가
+- [ ] JavaScript 상호작용 및 애니메이션 구현
+- [ ] 포트폴리오 프로젝트 및 사례 연구 추가
+- [ ] 동적 콘텐츠 관리를 위한 CMS 통합
+- [ ] 접근성 기능 개선(ARIA 레이블, 키보드 탐색)
+- [ ] 로딩 애니메이션 및 페이지 전환 추가
+- [ ] 다크/라이트 테마 토글 구현
 
 ## 출처
 
